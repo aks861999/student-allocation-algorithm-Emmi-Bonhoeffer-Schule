@@ -100,6 +100,5 @@ else:
 
 st.sidebar.header("About")
 st.sidebar.info(
-    "This is a project to allocate students according to the availability of students and teachers for respective subjects for a final oral exam",
-    "Made with ❤️ by Akash"
+    "This is a project to allocate students according to the availability of students and teachers for respective subjects for a final oral exam, Made with ❤️ by Akash"
 )
