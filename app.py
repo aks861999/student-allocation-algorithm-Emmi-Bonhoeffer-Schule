@@ -9,7 +9,7 @@ from third_convert_to_csv import convert_to_csv
 
 # --- Streamlit Page Configuration ---
 st.set_page_config(
-    page_title="Excel & JSON Processor",
+    page_title="Student Allocation Algorithm Emmi Bonhoeffer Schule",
     page_icon="📊",
     layout="centered",
     initial_sidebar_state="expanded"
@@ -100,5 +100,6 @@ else:
 
 st.sidebar.header("About")
 st.sidebar.info(
-    "This is a project to allocate students according to the availability of students and teachers for respective subjects for a final oral exam"
+    "This is a project to allocate students according to the availability of students and teachers for respective subjects for a final oral exam",
+    "Made with ❤️ by Akash"
 )
