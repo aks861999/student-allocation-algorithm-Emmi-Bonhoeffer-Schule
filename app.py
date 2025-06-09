@@ -100,6 +100,5 @@ else:
 
 st.sidebar.header("About")
 st.sidebar.info(
-    "This Streamlit app demonstrates how to upload an Excel file and an optional JSON file, "
-    "process them with custom logic, and download the result as a CSV."
+    "This is a project to allocate students according to the availability of students and teachers for respective subjects for a final oral exam"
 )
