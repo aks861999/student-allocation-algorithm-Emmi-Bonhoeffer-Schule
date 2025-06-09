@@ -15,7 +15,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("📊 Excel & JSON Sheet Processor")
+st.title("📊 Student Allocation Algorithm Emmi Bonhoeffer Schule")
 st.write("Upload your Excel file and an optional JSON file, process them, and download the results as a CSV.")
 
 # --- File Upload Section ---
